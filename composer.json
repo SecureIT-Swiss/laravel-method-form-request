@@ -13,9 +13,6 @@
         "illuminate/http": "^5.0"
     },
     "autoload": {
-        "classmap": [
-            "database"
-        ],
         "psr-4": {
             "LaravelMethodFormRequest\\": "src"
         }
