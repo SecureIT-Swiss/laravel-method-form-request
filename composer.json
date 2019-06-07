@@ -1,5 +1,6 @@
 {
     "name": "finalgamer/laravel-method-form-request",
+    "description": "Package to help organize form request validation for Laravel",
     "license": "MIT",
     "authors": [
         {
