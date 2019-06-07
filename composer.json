@@ -1,0 +1,22 @@
+{
+    "name": "finalgamer/laravel-method-form-request",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michele Della Neve",
+            "email": "michele@dellaneve.ch"
+        }
+    ],
+    "require": {
+        "php": "^7.1",
+        "illuminate/http": "^5.0"
+    },
+    "autoload": {
+        "classmap": [
+            "database"
+        ],
+        "psr-4": {
+            "LaravelMethodFormRequest\\": "src"
+        }
+    }
+}
