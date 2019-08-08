@@ -23,7 +23,6 @@ abstract class FormRequest extends IlluminateFormRequest
      */
     public function rules(): array
     {
-
         switch ($this->method()) {
             case 'POST':
                 return $this->createRules();
@@ -41,7 +40,7 @@ abstract class FormRequest extends IlluminateFormRequest
     }
 
     /**
-     * DELETE request validation rules
+     * DELETE request validation rules.
      *
      * @return array
      */
@@ -51,7 +50,7 @@ abstract class FormRequest extends IlluminateFormRequest
     }
 
     /**
-     * POST request validation rules
+     * POST request validation rules.
      *
      * @return array
      */
@@ -61,7 +60,7 @@ abstract class FormRequest extends IlluminateFormRequest
     }
 
     /**
-     * PUT/PATCH request validation rules
+     * PUT/PATCH request validation rules.
      *
      * @return array
      */
