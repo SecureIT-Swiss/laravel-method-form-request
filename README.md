@@ -4,7 +4,7 @@ This package helps you organize request validation data for Laravel form request
 
 Instead of having multiple form request files for creating and updateing you can store both validation rules in the same file.
 
-Forked from: finalgamer/laravel-method-form-request & upgraded to php 8.2
+Forked from: finalgamer/laravel-method-form-request & upgraded to PHP 8.2
 ## Installation
 Install as a composer dependency.
 
