@@ -1,16 +1,16 @@
 {
-    "name": "finalgamer/laravel-method-form-request",
+    "name": "sherifsheremetaj/laravel-method-form-request",
     "description": "Package to help organize form request validation for Laravel",
     "license": "MIT",
     "authors": [
         {
-            "name": "Michele Della Neve",
-            "email": "michele@dellaneve.ch"
+            "name": "Sherif Sheremetaj",
+            "email": "sh.sheremetajgmail.com"
         }
     ],
     "require": {
-        "php": "^7.1|^8.0",
-        "illuminate/http": "^5.0|^6.0|^7.0"
+        "php": "^7.1|^8.2",
+        "illuminate/http": "^5.0|^6.0|^8.2"
     },
     "autoload": {
         "psr-4": {
