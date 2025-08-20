@@ -1,5 +1,5 @@
 {
-    "name": "sherifsheremetaj/laravel-method-form-request",
+    "name": "secureit-swiss/laravel-method-form-request",
     "description": "Package to help organize form request validation for Laravel",
     "license": "MIT",
     "authors": [
@@ -10,6 +10,10 @@
         {
             "name": "Sherif Sheremetaj",
             "email": "sh.sheremetaj@gmail.com"
+        },
+        {
+            "name": "Luka Ramseyer",
+            "email": "luka@secureit.ch"
         }
     ],
     "require": {
